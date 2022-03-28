@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Bhavin Bansal</h1>
-<h3 align="center">A passionate Full-Stack web developer from India.</h3>
+<h1 align="center">Hello Folks👋, I'm Bhavin Bansal</h1>
+<h3 align="center">A passionate Full-Stack Web Developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhavinbansal&label=Profile%20views&color=0e75b6&style=flat" alt="bhavinbansal" /> </p>
 
